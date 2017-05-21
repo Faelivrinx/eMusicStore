@@ -51,8 +51,8 @@
         </div>
 
         <div class="form-group">
-            <label for="unitInStock">Unit In Stock</label>
-            <form:input path="unityInStock" id="unitInStock" class="form-control"/>
+            <label for="unityInStock">Unit In Stock</label>
+            <form:input path="unityInStock" id="unityInStock" class="form-control"/>
         </div>
 
         <div class="form-group">
